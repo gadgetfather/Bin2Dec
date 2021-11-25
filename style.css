@@ -18,10 +18,25 @@ body{
     background: #eee;
     padding: 5px;
 }
+#waiting{
+    padding: 1.5rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+
+
+
+
 #input{
     padding: 1rem;
     margin-top: 2rem;
     font-size: large;
+    
 }
-
+#output{
+    padding: 1rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
 
